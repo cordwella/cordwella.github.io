@@ -8,6 +8,8 @@ Any queries related to my research work should be sent to ajc356 (at) cam.ac.uk.
 ### Research Overview
 ![Evolution of the perturbation of surface density](mp025hp05p15evolution.png)
 
+Evolution of surface density for a disc with a $M_p/M_{th} = 0.25$ planet, $h_p = 0.05$ and $\Sigma_0 = (R/R_p)^{-1.5}$.
+
 ### Available codes and data
 
 [Vortensity Driven Evolution of Protoplanetary Discs](https://github.com/cordwella/vortensity_evolution)

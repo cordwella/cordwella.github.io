@@ -6,7 +6,7 @@ My research focuses on Planet Disc Interactions in Protoplanetary Discs with a f
 Any queries related to my research work should be sent to ajc356 (at) cam.ac.uk. 
 
 ### Research Overview
-![Evolution of the perturbation of surface density ](/images/mp025hp05p15evolution.png)
+![Evolution of the perturbation of surface density](mp025hp05p15evolution.png)
 
 ### Available codes and data
 

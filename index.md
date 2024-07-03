@@ -1,7 +1,7 @@
 ## Amelia Cordwell's Research Page
-Hello! I am a PhD student in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge, under the supervison of Roman Rafikov.
+Hello! I am a PhD student in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge, under the supervison of Roman R. Rafikov.
 
-My research focuses on Planet Disc Interactions in Protoplanetary Discs with a focus on how that interaction causes gaps to form.
+My research focuses on planet-disc interactions in protoplanetary discs using a mixture of simulations and analytic work.
 
 Any queries related to my research work should be sent to ajc356 (at) cam.ac.uk. 
 
@@ -10,13 +10,12 @@ Any queries related to my research work should be sent to ajc356 (at) cam.ac.uk.
 
 Evolution of surface density for a disc with a $M_p/M_{th} = 0.25$ planet, $h_p = 0.05$ and $\Sigma_0 = (R/R_p)^{-1.5}$.
 
+The first paper of my PhD, [Early stages of gap opening by planets in protoplanetary discs (Cordwell & Rafikov, 2024)](https://arxiv.org/abs/2407.01728), is available as a preprint on ArXiv. 
+
 ### Available codes and data
 
 [Vortensity Driven Evolution of Protoplanetary Discs](https://github.com/cordwella/vortensity_evolution)
-This is an implementation of the semi-analytical angular momentum deposition model from Cimerman and Rafikov (2021) and its related surface density reconstruction algorithm from Cimerman and Rafikov (2023). It models the initial evolution of a disc with an injected sub-thermal mass protoplanet. The vortensity solver can solve for surface densities with an arbitary perscribed vortensity in a barotropic disc.
-
-A linear surface density evolution model will be added to this repository in conjunction with an upcoming paper.
-
+This is an implementation of the semi-analytical angular momentum deposition model from Cimerman and Rafikov (2021) and its related surface density reconstruction algorithm from Cimerman and Rafikov (2023). It models the initial evolution of a disc with an injected sub-thermal mass protoplanet. The vortensity solver can solve for surface densities with an arbitary perscribed vortensity in a barotropic disc. It also includes implementations of the surface density evolution solutions from Cordwell & Rafikov, 2024.
 
 ### Previous publications (from undergraduate/honours projects)
 - [Asteroid Lightcurves from the MOA-II Survey: a pilot study (2022)](https://academic.oup.com/mnras/article/514/2/3098/6547784)

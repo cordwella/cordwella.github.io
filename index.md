@@ -10,7 +10,14 @@ Any queries related to my research work should be sent to ajc356 (at) cam.ac.uk.
 
 Evolution of surface density for a disc with a $M_p/M_{th} = 0.25$ planet, $h_p = 0.05$ and $\Sigma_0 = (R/R_p)^{-1.5}$.
 
-The first paper of my PhD, [Early stages of gap opening by planets in protoplanetary discs (Cordwell & Rafikov, 2024)](https://arxiv.org/abs/2407.01728), is available as a preprint on ArXiv. 
+The first paper of my PhD, [Early stages of gap opening by planets in protoplanetary discs (Cordwell & Rafikov, 2024)](https://arxiv.org/abs/2407.01728), is available as a preprint on ArXiv and has been published by MNRAS. 
+
+
+### Cambridge Astrophysical Discs Early Career Researcher Meetups 
+
+I sometimes try to organise meetups for all of the astrophysical disc researchers in Cambridge.
+
+If you are currently in Cambridge, and logged into your .cam.ac.uk Google account you will be able to access some related resources and a researcher directory [here](https://drive.google.com/drive/folders/1HCV1TIXHKnUQcjfWwMuWnGpBedOooGSI?usp=drive_link).
 
 ### Available codes and data
 

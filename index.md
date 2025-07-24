@@ -5,11 +5,14 @@ My full CV is available [here](CV_2025.pdf), and my full list of publications is
 
 
 ### PhD Research Overview
-The first paper of my PhD, [Early stages of gap opening by planets in protoplanetary discs (Cordwell & Rafikov, 2024)](https://arxiv.org/abs/2407.01728), is available as a preprint on ArXiv and has been published by MNRAS. 
+The first paper of my PhD, [Early stages of gap opening by planets in protoplanetary discs (Cordwell & Rafikov, 2024)](https://arxiv.org/abs/2407.01728), is available as a preprint on ArXiv and has been published by MNRAS. At present I have two papers in prep about the 3D structure of planet-disc interactions, and the impacts of viscosity and cooling on angular momentum deposition.
 
-![Evolution of the perturbation of surface density](mp025hp05p15evolution.png)
+![Evolution of the perturbation of surface density](single_orbit_mp_0.25_h_0.1.gif)
 
-Evolution of surface density for a disc with a $` M_p/M_{th} = 0.25$ planet, $h_p = 0.05$ and $\Sigma_0 = (R/R_p)^{-1.5} `$.
+Surface density perturbation for a disc with a $` M_p/M_{th} = 0.25$ planet, $h_p = 0.1$ scale height at the planet and $\Sigma_0 = (R/R_p)^{-1.5} `$ background surface density (2D simulation).
+
+![Shock structure](mp_0.25_hp_0.05_p_1.5_3d_shock_structure.gif)
+3D structure of the excited planetary wake from a simulation with a $` M_p/M_{th} = 0.25`$ planet, $`h_p = 0.05`$ scale height at the planet and $`\Sigma_0 = (R/R_p)^{-1.5} `$ background surface density
 
 
 ### Scientific Codes on GitHub (All free and open source)

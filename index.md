@@ -1,11 +1,13 @@
 
-I research protoplanetary discs with a focus on planet-disc interactions, and using simulations to verify and develop (semi-)analytical theory.
+I research protoplanetary discs with a focus on planet-disc interactions, using simulations to verify and develop (semi-)analytical theory, an developing analytic theory to verify develop, and analyse better simulatons.
 
 My full CV is available [here](CV_2025.pdf), and my full list of publications is on [Google Scholar](https://scholar.google.com/citations?hl=en&user=YrQSSzYAAAAJ).
 
 
 ### PhD Research Overview
-The first paper of my PhD, [Early stages of gap opening by planets in protoplanetary discs (Cordwell & Rafikov, 2024)](https://arxiv.org/abs/2407.01728), is available as a preprint on ArXiv and has been published by MNRAS. At present I have two papers in prep about the 3D structure of planet-disc interactions, and the impacts of viscosity and cooling on angular momentum deposition.
+The first paper of my PhD, [Early stages of gap opening by planets in protoplanetary discs (Cordwell & Rafikov, 2024)](https://arxiv.org/abs/2407.01728), is available as a preprint on ArXiv and has been published by MNRAS. My second paper [How two-dimensional are planet-disc interactions? I. Locally isothermal discs (Cordwell, Ziampras, Brown & Rafikov, 2025)](https://arxiv.org/abs/2509.04282) has been submitted to MNRAS. A third paper, focusing on the impacts of viscosity and cooling on angular momentum deposition, is in prep.
+
+I am always happy to answer questions about my work over email: ajc356 (at) cam.ac.uk.
 
 ![Evolution of the perturbation of surface density](single_orbit_mp_0.25_h_0.1.gif)
 
@@ -21,7 +23,7 @@ Surface density perturbation for a disc with a $` M_p/M_{th} = 0.25$ planet, $h_
 [Athena++ with Planet-Disc interactions](https://github.com/cordwella/athena-disk-planet) (WORK IN PROGRESS): A fork of Athena++ with problem files for planet-disc interactions, example athinput files as used in Cordwell, Ziampras, Brown and Rafikov (2025, in prep) and complimation commands for the University of Cambridge HPC systems. 
 
 [Vortensity Driven Evolution of Protoplanetary Discs](https://github.com/cordwella/vortensity_evolution): 
-This is an implementation of the semi-analytical angular momentum deposition model from Cimerman and Rafikov (2021) and its related surface density reconstruction algorithm from Cimerman and Rafikov (2023). It models the initial evolution of a disc with an injected sub-thermal mass protoplanet. The vortensity solver can solve for surface densities with an arbitary perscribed vortensity in a barotropic disc. It also includes implementations of the surface density evolution solutions from Cordwell and Rafikov (2024).
+This is an implementation of the semi-analytical angular momentum deposition model from Cimerman and Rafikov (2021) and its related surface density reconstruction algorithm from Cimerman and Rafikov (2023). It models the initial evolution of a disc with an injected sub-thermal mass protoplanet. The vortensity solver can solve for surface densities with an arbitary prescribed vortensity in a barotropic disc. It also includes implementations of the surface density evolution solutions from Cordwell and Rafikov (2024).
 
 
 

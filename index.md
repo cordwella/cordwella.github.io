@@ -1,5 +1,5 @@
 
-I research protoplanetary discs with a focus on planet-disc interactions, using simulations to verify and develop (semi-)analytical theory, an developing analytic theory to verify develop, and analyse better simulatons.
+I research protoplanetary discs with a focus on planet-disc interactions, using simulations to verify and develop (semi-)analytical theory, and developing analytic theory to support the creation of better simulations.
 
 My full CV is available [here](CV_2025.pdf), and my full list of publications is on [Google Scholar](https://scholar.google.com/citations?hl=en&user=YrQSSzYAAAAJ).
 
